@@ -1,0 +1,25 @@
+{
+  "name": "ADmyBRAND Insights Dashboard",
+  "short_name": "ADmyBRAND",
+  "description": "Modern analytics dashboard for digital marketing agencies",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "32x32",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/apple-touch-icon.svg",
+      "sizes": "180x180",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "productivity", "analytics"],
+  "orientation": "portrait-primary"
+}

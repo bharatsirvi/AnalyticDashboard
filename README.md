@@ -2,6 +2,8 @@
 
 A modern, responsive analytics dashboard for digital marketing agencies with stunning visualizations and real-time data insights.
 
+🚀 **[Live Demo](https://analytic-dashboard-eacp.vercel.app/)**
+
 ## ✨ Features
 
 - **Interactive Charts**: Line charts, bar charts, and pie charts
